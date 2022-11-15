@@ -1,0 +1,2 @@
+export const INFURA_PROJECT_ID = process.env.NEXT_PUBLIC_INFURA_PROJECT_ID;
+export const INFURA_API_KEY = process.env.NEXT_PUBLIC_INFURA_API_KEY ?? "8fada542a0884958a6e9b518dd85a22c";
